@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@metamask/snaps-utils": "^0.28.0",
-    "@metamask/utils": "^3.3.0",
+    "@metamask/utils": "^6.1.0",
     "webpack-sources": "^3.2.3"
   },
   "devDependencies": {
